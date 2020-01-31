@@ -75,4 +75,3 @@ def reduce_to_any_true(source_array)
   end
   return false
 end
-© 2020 GitHub, Inc.
