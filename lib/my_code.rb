@@ -34,6 +34,7 @@ def map_to_double(source_array)
   return array
 end
 
+# map_to_square returns an array with the original values squared
 def map_to_square(source_array)
   array = []
   index = 0 
