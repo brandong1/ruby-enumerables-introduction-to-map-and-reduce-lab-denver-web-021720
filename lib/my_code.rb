@@ -10,6 +10,7 @@ def map_to_negativize(source_array)
   array
 end
 
+# map_to_no_change returns an array with the original values
 def map_to_no_change(source_array)
   array = []
   index = 0 
