@@ -47,7 +47,7 @@ def reduce_to_total(source_array, starting_point)
   index = 0 
   
   while index < source_array.size do 
-    
+    array += starting_point[index]
   end
 end
 
