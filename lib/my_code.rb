@@ -25,7 +25,7 @@ def map_to_double(source_array)
   index = 0 
   
   while index < source_array.size do 
-    array.push(source_array[index])
+    array.push(source_array[index] * 2)
     index += 1 
   end
   return array
