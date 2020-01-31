@@ -22,6 +22,7 @@ def map_to_no_change(source_array)
   return array
 end
 
+# map_to_double returns an array with the original values multiplied by 2
 def map_to_double(source_array)
   array = []
   index = 0 
