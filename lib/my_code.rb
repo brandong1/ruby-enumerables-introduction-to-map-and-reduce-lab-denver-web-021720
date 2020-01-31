@@ -1,3 +1,4 @@
+# map_to_negativize returns an array with all values made negative
 def map_to_negativize(source_array)
   array = []
   index = 0 
